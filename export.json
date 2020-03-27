@@ -452,7 +452,7 @@
   "gameAttributes": [
     {
       "key": "luxuryPayroll",
-      "value": 15000
+      "value": 13000
     },
     {
       "key": "luxuryTax",
@@ -460,7 +460,7 @@
     },
     {
       "key": "minPayroll",
-      "value": 6000
+      "value": 6500
     },
     {
       "key": "salaryCap",
@@ -468,11 +468,11 @@
     },
     {
       "key": "maxContract",
-      "value": 2000
+      "value": 2500
     },
     {
       "key": "minContract",
-      "value": 450
+      "value": 350
     },
     {
       "key": "minRosterSize",
